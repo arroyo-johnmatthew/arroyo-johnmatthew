@@ -5,7 +5,7 @@ I study at the Polytechnic University of the Philippines, Taguig Campus.
 ## 🔭 Current Activity
 I’m currently working on our Capstone Project as a backend web programmer and learning a new programming language. I intend to improve my programming skills in the field of web development.
 
-## Projects
+## 👨‍💻 Projects
 
 <table align="center">
   <tr>
@@ -27,14 +27,18 @@ I’m currently working on our Capstone Project as a backend web programmer and 
     <p>
     <a href="https://github.com/PUP-BSIT/project-club-404">HEYBLEEPI</a><br>
     <strong>Tech Stack:</strong> HTML, CSS, JavaScript, PHP, MySQL<br>
-    <strong>Role:</strong> UI/UX Designer/Developer
     </p>
     </td>
     <td align="center">
     <p>
     <a href="https://github.com/PUP-BSIT/project-appvengers">iBudget</a><br>
      <strong>Tech Stack:</strong> Angular, TypeScript, Node.js, MySQL, Java, Spring Boot<br>
-     <strong>Role:</strong> UI/UX Designer/Developer 
+    </p>
+    </td>
+    <td align="center">
+    <p>
+    <a href="https://github.com/arroyo-johnmatthew/COBOL_FILE_HANDLING">File Handler</a><br>
+     <strong>Tech Stack:</strong>COBOL<br>
     </p>
     </td>
   </tr> 
