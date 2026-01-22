@@ -1,6 +1,8 @@
 ## Hi there 👋
 I am John Matthew Arroyo, a 3rd year IT student in the Philippines.
-I study in the Polytechnic University of the Philippines, Taguig Campus.
+I study at the Polytechnic University of the Philippines, Taguig Campus.
+## 🔭 I’m currently working on our Capstone Project as a backend web programmer. I intend to improve my programming skills in the field of web development.
+
 
 
 <!--
