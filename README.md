@@ -6,7 +6,6 @@ I study at the Polytechnic University of the Philippines, Taguig Campus.
 I’m currently working on our Capstone Project as a backend web programmer and learning a new programming language. I intend to improve my programming skills in the field of web development.
 
 ## 👨‍💻 Projects
-
 <table align="center">
   <tr>
     <td align="center">
@@ -48,6 +47,9 @@ I’m currently working on our Capstone Project as a backend web programmer and 
     </p>
     </td>
   </tr> 
-</table> 
+</table>
+
+## 📝 GitHub Stats
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=arroyo-johnmatthew&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
