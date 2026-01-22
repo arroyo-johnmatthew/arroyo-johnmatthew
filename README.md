@@ -41,6 +41,12 @@ I’m currently working on our Capstone Project as a backend web programmer and 
      <strong>Tech Stack:</strong>COBOL<br>
     </p>
     </td>
+    <td align="center">
+    <p>
+    <a href="https://github.com/arroyo-johnmatthew/B.I-DASHBOARD-">Business Intelligence Dashboard</a><br>
+     <strong>Tech Stack:</strong>HTML, CSS, JavaScript, PHP<br>
+    </p>
+    </td>
   </tr> 
 </table> 
 
