@@ -65,6 +65,8 @@ I’m currently working on our Capstone Project as a backend web programmer and 
 </table>
 
 ## 📊 GitHub Stats
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=arroyo-johnmatthew&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=arroyo-johnmatthew&include_all_commits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
