@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am John Matthew Arroyo, a 3rd year IT student in the Philippines.
+I study in the Polytechnic University of the Philippines, Taguig Campus.
+
 
 <!--
 **arroyo-johnmatthew/arroyo-johnmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
