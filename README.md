@@ -67,6 +67,24 @@ I’m currently working on our Capstone Project as a backend web programmer and 
 ## 📊 GitHub Stats
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=arroyo-johnmatthew&include_all_commits&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📝 Certifications
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/python.png" width="250"/><br/>
+      <b> Programming for Beginners Using Python, DICT</b>
+    </td>
+    <td align="center">
+      <img src="assets/GDG.png" width="250"/><br/>
+      <b> Webverse Vol. 1: Frontend Basics, GDG PUP ’26</b>
+    </td>
+    <td align="center">
+      <img src="assets/zuitt.png" width="250"/><br/>
+      <b> Free Coding Bootcamp: Basic Web Development Workshop, ZUITT & GDG PLM</b>
+    </td>
+  </tr>
+</table>
+
 
 
 
