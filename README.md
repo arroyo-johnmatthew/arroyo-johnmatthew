@@ -3,7 +3,7 @@ I am John Matthew Arroyo, a 3rd year IT student in the Philippines.
 I study at the Polytechnic University of the Philippines, Taguig Campus.
 
 ## 🔭 Current Activity
-I’m currently working on our Capstone Project as a backend web programmer and learning a new programming language. I intend to improve my programming skills in the field of web development.
+Creating my final project written in Python for the CS50P Course by Harvard University. 
 
 ## 🌟 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
